@@ -3,6 +3,8 @@ Gleamin' Goggles (for JET v1.1.0)
 Version 1.1.0 (03.13.2021)
 By Kyodan
 
+![Screenshot](cover.png)
+
 This mod improves clarity when using night vision/thermal goggles!
 
 **Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/GleaminGoggles/releases **
