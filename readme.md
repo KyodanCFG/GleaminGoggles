@@ -7,7 +7,7 @@ By Kyodan
 
 This mod improves clarity when using night vision/thermal goggles!
 
-**Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/GleaminGoggles/releases **
+**Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/GleaminGoggles/releases**
                                                                   
 ## Info
 
