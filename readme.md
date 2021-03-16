@@ -1,4 +1,4 @@
-Gleamin' Goggles (for JET v1.1.0) 
+Gleamin' Goggles (for JET v1.1.0)
 ----------------
 Version `1.1.0` (`03.13.2021`)
 By Kyodan
